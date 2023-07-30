@@ -38,7 +38,7 @@
 } */
 .main{
 height: 450px;
-background-image: url("/photes/asset_0000000000000020_1549743985_macbook_mouse.jpg");
+background-image: url("asset_0000000000000020_1549743985_macbook_mouse.jpg");
 text-align: center;
 background-attachment: fixed;
 }

@@ -5,7 +5,7 @@ import About from './about.js';
 import Skills from './skills'
 import Experience from './experience';
 import Projects from './projects';
-
+import Contact from './contact'
 const Home=()=> {
     return (
         <div class="hom">
@@ -14,7 +14,8 @@ const Home=()=> {
            <Skills/>
            <Experience/>
            <Education/>
-           {/* <Projects/> */}
+           <Projects/>
+           <Contact/>
 
         </div>
     )
