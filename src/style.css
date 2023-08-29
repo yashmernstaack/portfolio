@@ -78,7 +78,8 @@ section:nth-child(2n + 1) {
     height: 12rem;
     width: 12rem;
     margin: auto;
-    margin-top: 27vh;
+    margin-top: 20vh;
+    margin-bottom: 2vh;
   }
   
   #my-image img {

@@ -9,7 +9,7 @@ const skills = () => {
             <h1 class="section-heading mb75px ">
                 <span>
                     <LaptopChromebookIcon style={{fontSize:"60px", padding:"10px 10px 0 0 ", marginTop:"10px"}}/>
-                    skills
+                    
                 </span>
                 <span> SKILLS </span>
             </h1>
@@ -19,7 +19,7 @@ const skills = () => {
                 <div class="skill-progress">
                     <div class="eighty-percent mb-blue">
                         <div class="skill-name">
-                            <span> C++ </span>
+                            <span> C/C++ </span>
                         </div>
                     </div>
                 </div>
@@ -61,19 +61,19 @@ const skills = () => {
                 <div class="skill-progress">
                     <div class="eighty-percent mb-light-purple">
                         <div class="skill-name">
-                            <span> Redux </span>
+                            <span> WORDPRESS </span>
                         </div>
                     </div>
                 </div>
                 <div class="skill-progress">
                     <div class="eighty-percent mb-light-purple">
                         <div class="skill-name">
-                            <span> RestFul API </span>
+                            <span> JAVA </span>
                         </div>
                     </div>
                 </div>
 
-                <div class="skill-progress">
+                {/* <div class="skill-progress">
                     <div class="eighty-percent mb-light-purple">
                         <div class="skill-name">
                             <span> Nodejs </span>
@@ -86,7 +86,7 @@ const skills = () => {
                             <span> MongoDB </span>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
 
 

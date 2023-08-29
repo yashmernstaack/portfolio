@@ -1,13 +1,11 @@
 import React from 'react'; 
 import '../style.css'
-import one from './profile.png'
+
 const About=()=> {
     return (
         <div>
             <section id="about">
-            <div id="my-image">
-                <img src={one} ></img>
-            </div>
+         
 
             <div id="about-para">
 

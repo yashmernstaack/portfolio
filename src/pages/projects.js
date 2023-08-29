@@ -16,6 +16,11 @@ const projects = () => {
           </span>
           <span> Projects</span>
         </h1>
+        <h2>
+          <ul>
+            <li>portfolio</li>
+          </ul>
+        </h2>
 
         <div id="portfolio-container">
           <a href="https://github.com/avi112bala/MERN-PROJECT">
