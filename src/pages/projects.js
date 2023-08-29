@@ -16,10 +16,12 @@ const projects = () => {
           </span>
           <span> Projects</span>
         </h1>
-        <h2>
-          <ul>
-            <li>portfolio</li>
-          </ul>
+        <h2 class="mynameokk">
+          1. Portfolio                
+          
+        </h2>
+        <h2 class="mynameokk">
+          2. E-commercesite
         </h2>
 
         <div id="portfolio-container">

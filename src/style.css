@@ -141,7 +141,10 @@ section:nth-child(2n + 1) {
   width: 75%;
   border: none;
 }
-
+.mynameokk{
+  color: black;
+  font-size: 30px;
+}
 .timeline-box {
   padding: 5px;
   width: 40%;
